@@ -9,6 +9,27 @@ Here you’ll find things I’m working on, things I’m curious about, and thin
 - Family of [typography](https://github.com/NKARDAZ/typography-core) packages for web-development.
 - [Secure Delete Interface](https://github.com/NKARDAZ/SDeleteGUI): A GUI for the Sysinternals SDelete tool, designed to securely delete files and folders on Windows.
 
+
+### Child Branches
+
+<table>
+  <thead>
+   <tr>
+      <th>Icon</th>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+     <td><a href="https://github.com/Lampadion"><img src="https://avatars.githubusercontent.com/u/287073742" width="48" height="48"></a></td>
+     <td><a href="https://github.com/Lampadion">Λαμπάδῐον<a><br><sub>Lampadion</sub></td>
+     <td>Dedicated organization for multilingual\extended Unicode input tool repositories.</td>
+   </tr>
+  </tbody>
+
+</table>
+
 <!--
 
 **Here are some ideas to get you started:**
